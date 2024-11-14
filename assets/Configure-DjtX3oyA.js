@@ -1,4 +1,4 @@
-import{j as e}from"./jsx-runtime-OAISXtky.js";import{useMDXComponents as s}from"./index-DOvxcyG1.js";import"./index-qVDZzPEr.js";function i(t){const n={a:"a",code:"code",h1:"h1",h2:"h2",li:"li",p:"p",pre:"pre",ul:"ul",...s(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{id:"react--typescript--vite-1111111",children:"React + TypeScript + Vite 1111111"}),`
+import{j as e}from"./jsx-runtime-OAISXtky.js";import{useMDXComponents as s}from"./index-DOvxcyG1.js";import"./index-qVDZzPEr.js";function i(t){const n={a:"a",code:"code",h1:"h1",h2:"h2",li:"li",p:"p",pre:"pre",ul:"ul",...s(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{id:"react--typescript--vite-1111111222222",children:"React + TypeScript + Vite 1111111222222"}),`
 `,e.jsx(n.p,{children:"This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules."}),`
 `,e.jsx(n.p,{children:"Currently, two official plugins are available:"}),`
 `,e.jsxs(n.ul,{children:[`
